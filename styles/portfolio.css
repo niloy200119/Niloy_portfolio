@@ -43,7 +43,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Background Effects */
+
 .background-effects {
   position: fixed;
   top: 0;
@@ -106,7 +106,7 @@ body {
   }
 }
 
-/* Container */
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -210,7 +210,7 @@ body {
   box-shadow: 0 12px 40px rgba(0, 212, 255, 0.15);
 }
 
-/* Section Styles */
+
 section {
   padding: 6rem 0;
   position: relative;
@@ -311,13 +311,13 @@ section {
   transform: translateY(-2px);
 }
 
-/* Hero Avatar */
+
 .hero-avatar {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 450px; /* Increased size to contain floating icons */
+  width: 450px; 
   height: 450px;
 }
 
@@ -325,7 +325,7 @@ section {
   position: relative;
   width: 300px;
   height: 300px;
-  z-index: 2; /* Ensure avatar is above floating items */
+  z-index: 2; 
 }
 
 .avatar-ring {
@@ -375,7 +375,7 @@ section {
   }
 }
 
-/* Floating Icons */
+
 .floating-elements {
   position: absolute;
   top: 50%;
@@ -414,7 +414,7 @@ section {
   }
 }
 
-/* Positioning and delays for individual icons */
+
 .float-1 {
   animation-duration: 15s;
   animation-delay: -2s;
@@ -497,7 +497,7 @@ section {
   }
 }
 
-/* About Section */
+
 .about-content {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -551,7 +551,7 @@ section {
   letter-spacing: 0.5px;
 }
 
-/* Education Section */
+
 .education-timeline {
   max-width: 800px;
   margin: 0 auto;
@@ -929,7 +929,7 @@ section {
     gap: 2rem;
   }
   .hero-avatar {
-    grid-row: 1; /* Move avatar to the top on mobile */
+    grid-row: 1; 
     width: 350px;
     height: 350px;
     margin: 0 auto 3rem;
@@ -993,9 +993,9 @@ section {
     position: relative;
   }
 
-  /* Basic implementation of a mobile menu (can be enhanced with JS) */
+
   .nav-menu {
-    display: none; /* Hide by default */
+    display: none; 
   }
 
   .hero-title {

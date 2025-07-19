@@ -2,7 +2,8 @@
 
 Welcome to the repository for my personal portfolio website. This project is a clean, modern, and fully-responsive single-page website built from the ground up using only **HTML5** and **CSS3**. It serves as my professional online presence, showcasing my skills, education, projects, and personal interests.
 
-**[➡️ View Live Demo](https://niloy200119.github.io/Niloy_portfolio/)** ![Portfolio Screenshot](./assets/screenshot.png) ## ✨ Features
+**[➡️ View Live Demo](https://niloy200119.github.io/Niloy_portfolio/)** 
+ ## ✨ Features
 
 This portfolio is packed with modern features to create an engaging user experience:
 
