@@ -1,4 +1,4 @@
-# Niloy_portfolio# Modern Personal Portfolio - A.B.M. Mostakim Niloy
+# A.B.M. Mostakim Niloy
 
 Welcome to the repository for my personal portfolio website. This project is a clean, modern, and fully-responsive single-page website built from the ground up using only **HTML5** and **CSS3**. It serves as my professional online presence, showcasing my skills, education, projects, and personal interests.
 
@@ -41,7 +41,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/niloy200119/Niloy_portfolio.git](https://github.com/niloy200119/Niloy_portfolio.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
