@@ -1,58 +1,98 @@
-# A.B.M. Mostakim Niloy
+<div align="center">
 
-Welcome to the repository for my personal portfolio website. This project is a clean, modern, and fully-responsive single-page website built from the ground up using only **HTML5** and **CSS3**. It serves as my professional online presence, showcasing my skills, education, projects, and personal interests.
+# A.B.M. Mostakim Niloy | Personal Portfolio
 
-**[➡️ View Live Demo](https://niloy200119.github.io/Niloy_portfolio/)**
+A clean, modern, and fully-responsive single-page portfolio built from the ground up with pure HTML5 & CSS3.
 
-## ✨ Features
+<p>
+    <a href="https://github.com/niloy200119">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-niloy200119-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/mostakim-niloy-abm200119">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mostakim--niloy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
 
-This portfolio is packed with modern features to create an engaging user experience:
+</div>
 
--   **Glassmorphism Design:** A beautiful "frosted glass" effect is used on cards and the navigation bar for a modern, layered look.
--   **Dynamic Animations:**
-    -   Floating background gradient orbs that move gently.
-    -   Technology icons that orbit the avatar photo.
-    -   A subtle typing animation in the hero title.
-    -   An animated scroll-down indicator to guide users.
-    -   Smooth hover effects and transitions on most interactive elements.
--   **Structured Sections:**
-    -   **Hero:** An impactful introduction with clear call-to-action buttons.
-    -   **About:** A personal summary paired with animated statistics.
-    -   **Education:** A clean, vertical timeline to display academic history.
-    -   **Skills & Projects:** Clearly defined sections to showcase technical abilities and featured work.
-    -   **Hobbies:** A personal touch with an icon-based grid of interests.
-    -   **Contact:** Easy access to social media profiles and a direct "Email Me" button.
--   **Fully Responsive:** The layout seamlessly adapts to all screen sizes, from large desktop monitors to mobile phones.
--   **Pure HTML/CSS:** Demonstrates strong foundational web development skills by achieving all functionality and animations without JavaScript.
+---
 
-## 📸 Screenshots
+<div align="center">
+    <a href="https://niloy200119.github.io/Niloy_portfolio/">
+        <img src="https://img.shields.io/badge/►-View%20Live%20Demo-00D4FF?style=for-the-badge&logoColor=white" alt="Live Demo">
+    </a>
+</div>
 
-Here's a glimpse of the portfolio's design and layout across different sections.
+<br>
 
-| Hero Section & Orbiting Icons | About Me & Animated Stats | Education Timeline |
-| :---------------------------: | :-----------------------: | :--------------------: |
-| <img src="/images/Screenshot 1.png" alt="Hero Section Preview" width="100%"> | <img src="/images/Screenshot 2.png" alt="About Me Section Preview" width="100%"> | <img src="/images/Screenshot 3.png" alt="Education Timeline Preview" width="100%"> |
-| **Skills** | **Projects** | **Hobbies Section** | **Contact & Footer** |
-| <img src="/images/Screenshot 4.png" alt="Skills  Preview" width="100%"> | | <img src="/images/Screenshot 5.png" alt="Project  Preview" width="100%"> |<img src="/images/Screenshot 6.png" alt="Hobbies Section Preview" width="100%"> | <img src="/images/Screenshot 7.png" alt="Contact Section Preview" width="100%"> |
+<details>
+  <summary><b>🖼️ &nbsp; Click to view Project Gallery</b></summary>
+  <br>
+  <table border="0">
+    <tr>
+      <td><img src="/images/Screenshot 1.png" alt="Hero Section Preview"></td>
+      <td><img src="/images/Screenshot 2.png" alt="About Me Section Preview"></td>
+      <td><img src="/images/Screenshot 3.png" alt="Education Timeline Preview"></td>
+    </tr>
+    <tr align="center">
+      <td><b>Hero & Orbiting Icons</b></td>
+      <td><b>About Me & Stats</b></td>
+      <td><b>Education Timeline</b></td>
+    </tr>
+    <tr>
+      <td><br></td>
+    </tr>
+    <tr>
+      <td><img src="/images/Screenshot 4.png" alt="Skills Preview"></td>
+      <td><img src="/images/Screenshot 5.png" alt="Projects Preview"></td>
+      <td><img src="/images/Screenshot 6.png" alt="Hobbies Preview"></td>
+    </tr>
+    <tr align="center">
+      <td><b>Skills Showcase</b></td>
+      <td><b>Project Cards</b></td>
+      <td><b>Hobbies Grid</b></td>
+    </tr>
+     <tr>
+      <td><br></td>
+    </tr>
+     <tr>
+      <td><img src="/images/Screenshot 7.png" alt="Contact Preview"></td>
+      <td colspan="2"><img src="/images/Screenshot 2025-07-22 at 1.22.28 AM.png" alt="Responsive Mobile View"></td>
+    </tr>
+    <tr align="center">
+      <td><b>Contact Section</b></td>
+      <td colspan="2"><b>Fully Responsive Mobile Design</b></td>
+    </tr>
+  </table>
+</details>
 
-| **Fully Responsive Mobile View** |
-| :------------------------------: |
-| <img src="/images/Screenshot 2025-07-22 at 1.22.28 AM.png" alt="Responsive Mobile View" width="40%"> |
+---
+
+## ✨ Key Features
+
+This portfolio is packed with features to create an engaging user experience:
+
+-   ✅ &nbsp; **Stunning Glassmorphism UI:** A beautiful "frosted glass" effect on cards and the navigation bar.
+-   ✅ &nbsp; **Dynamic Animations:** Floating orbs, orbiting tech icons, typing effects, and smooth transitions, all built with pure CSS.
+-   ✅ &nbsp; **Structured & Semantic Layout:** Clearly defined sections for Hero, About, Education, Skills, Projects, Hobbies, and Contact.
+-   ✅ &nbsp; **Fully Responsive:** The layout seamlessly adapts to all screen sizes, from large desktops to mobile phones.
+-   ✅ &nbsp; **Zero Dependencies:** Built with pure, vanilla HTML5 and CSS3 to demonstrate strong foundational skills. No JavaScript!
 
 ## 🛠️ Tech Stack
 
-This project was built using core web technologies:
+This project was built using core web technologies, styled with modern CSS features.
 
--   **HTML5:** For semantic structure and content.
--   **CSS3:** For all styling, layout, and animations.
-    -   **Custom Properties (Variables):** For easy theme management (colors, fonts, etc.).
-    -   **Flexbox & CSS Grid:** For robust and responsive layouts.
-    -   **Keyframe Animations:** For all dynamic effects like the orbiting icons and floating orbs.
-    -   **Media Queries:** To ensure responsiveness across all devices.
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-CB3837?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="CSS Grid" src="https://img.shields.io/badge/CSS Grid-CB3837?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Keyframes" src="https://img.shields.io/badge/Keyframe Anim.-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ## 🚀 Getting Started
 
-To run this project locally:
+To run this project locally, simply clone the repository and open the file in your browser.
 
 1.  **Clone the repository:**
     ```sh
@@ -62,18 +102,18 @@ To run this project locally:
     ```sh
     cd Niloy_portfolio
     ```
-3.  **Open the `index.html` file in your browser.**
-    No special servers or dependencies are needed!
+3.  **Open the `index.html` file in your browser.** No servers or dependencies are needed!
 
-## 🔧 Customization
+## 🔧 Customization Guide
 
-If you'd like to fork this repository and make it your own, here’s how to customize it:
+Feel free to fork this project and make it your own!
 
-1.  **Personal Information:** Open `index.html` and edit the text content in the various sections (About, Education, Projects, etc.) with your own details.
-2.  **Avatar & Logos:** Replace the images in the `images/` directory with your own. Ensure the filenames match or update the `src` attributes in the HTML.
-3.  **CV / Resume:** Place your CV file (e.g., in PDF format) in the `assets/` folder and update the `href` path on all three "Download CV" `<a>` tags in `index.html`.
-4.  **Theme Colors:** All theme colors are defined as CSS variables in `styles/portfolio.css` within the `:root` selector. You can easily change the accent colors and backgrounds here.
-
+1.  **Edit Content:** Open `index.html` and replace the text in the sections (About, Education, etc.) with your personal details.
+2.  **Update Images:**
+    * Replace `images/avatar.png` and other logos with your own.
+    * For the gallery, replace the screenshots inside the `images/` folder. For best results, use filenames without spaces (e.g., `Screenshot-1.png`, `Screenshot-Mobile.png`).
+3.  **Add Your CV:** Place your resume (e.g., `resume.pdf`) in the `assets/` folder and update the `href` on the "Download CV" links in `index.html`.
+4.  **Change Theme Colors:** All theme colors are CSS variables in `styles/portfolio.css`. Edit the `:root` selector to change the entire site's color scheme easily.
     ```css
     :root {
       --primary-bg: #0a0a0a;
@@ -82,15 +122,11 @@ If you'd like to fork this repository and make it your own, here’s how to cust
       /* ...and so on */
     }
     ```
-5.  **Screenshots:** Create a new folder named `screenshots` in the root of your project. Add your 7 project screenshots to this folder, ensuring their names match the placeholders in this README file (e.g., `screenshot_01.png`, `screenshot_02.png`, etc.).
-
-## CONTACT
-
-A.B.M. Mostakim Niloy
-
--   **GitHub:** [@niloy200119](https://github.com/niloy200119)
--   **LinkedIn:** [in/mostakim-niloy-abm200119](https://www.linkedin.com/in/mostakim-niloy-abm200119)
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
+
+<div align="center">
+  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge">
+</div>
