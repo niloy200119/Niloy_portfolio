@@ -2,8 +2,9 @@
 
 Welcome to the repository for my personal portfolio website. This project is a clean, modern, and fully-responsive single-page website built from the ground up using only **HTML5** and **CSS3**. It serves as my professional online presence, showcasing my skills, education, projects, and personal interests.
 
-**[➡️ View Live Demo](https://niloy200119.github.io/Niloy_portfolio/)** 
- ## ✨ Features
+**[➡️ View Live Demo](https://niloy200119.github.io/Niloy_portfolio/)**
+
+## ✨ Features
 
 This portfolio is packed with modern features to create an engaging user experience:
 
@@ -23,6 +24,20 @@ This portfolio is packed with modern features to create an engaging user experie
     -   **Contact:** Easy access to social media profiles and a direct "Email Me" button.
 -   **Fully Responsive:** The layout seamlessly adapts to all screen sizes, from large desktop monitors to mobile phones.
 -   **Pure HTML/CSS:** Demonstrates strong foundational web development skills by achieving all functionality and animations without JavaScript.
+
+## 📸 Screenshots
+
+Here's a glimpse of the portfolio's design and layout across different sections.
+
+| Hero Section & Orbiting Icons | About Me & Animated Stats | Education Timeline |
+| :---------------------------: | :-----------------------: | :--------------------: |
+| <img src="/images/Screenshot 1.png" alt="Hero Section Preview" width="100%"> | <img src="/images/Screenshot 2.png" alt="About Me Section Preview" width="100%"> | <img src="/images/Screenshot 3.png" alt="Education Timeline Preview" width="100%"> |
+| **Skills** | **Projects** | **Hobbies Section** | **Contact & Footer** |
+| <img src="/images/Screenshot 4.png" alt="Skills  Preview" width="100%"> | | <img src="/images/Screenshot 5.png" alt="Project  Preview" width="100%"> |<img src="/images/Screenshot 6.png" alt="Hobbies Section Preview" width="100%"> | <img src="/images/Screenshot 7.png" alt="Contact Section Preview" width="100%"> |
+
+| **Fully Responsive Mobile View** |
+| :------------------------------: |
+| <img src="/images/Screenshot 2025-07-22 at 1.22.28 AM.png" alt="Responsive Mobile View" width="40%"> |
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +60,7 @@ To run this project locally:
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd your-repo-name
+    cd Niloy_portfolio
     ```
 3.  **Open the `index.html` file in your browser.**
     No special servers or dependencies are needed!
@@ -67,6 +82,7 @@ If you'd like to fork this repository and make it your own, here’s how to cust
       /* ...and so on */
     }
     ```
+5.  **Screenshots:** Create a new folder named `screenshots` in the root of your project. Add your 7 project screenshots to this folder, ensuring their names match the placeholders in this README file (e.g., `screenshot_01.png`, `screenshot_02.png`, etc.).
 
 ## CONTACT
 
